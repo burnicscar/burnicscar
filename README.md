@@ -12,5 +12,7 @@ B) Python 3
 I've studied law and work in tax. My projects will therefore naturally focus on these areas.
 
 Start_Goal - learn to extract data from websites to create useable databases 
-End_Goal - automate basic legal/tax services alongside a better repository of information 
+
+End_Goal - automate basic legal/tax services alongside a better repository of information
+
 Empire_Goal - training programme to 'understand' tax and/or law
