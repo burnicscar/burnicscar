@@ -5,6 +5,7 @@ Greetings all, I'm the one and only burnicscar
 I've just started learning how to code with a focus on:
 
 A) M code (power query)
+
 B) Python 3
 
 # Projects
